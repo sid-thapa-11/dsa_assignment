@@ -2,9 +2,8 @@
 
 **Program Name:** Doubly Linked List with Insert and Delete Operations  
 **Language:** C  
-**Author:** Sushan Luitel  
+**Author:** Siddharth Thapa 
 **Course:** COMP202  
-**Date:** 08-Feb-2026  
 
 ---
 
