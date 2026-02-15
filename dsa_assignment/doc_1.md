@@ -1,6 +1,6 @@
 Program Documentation: Balanced Parentheses Checker
 
-Program Name: Balanced Parentheses Checker Language: C Author: Siddharth Thapa Date: 07-Feb-2026 Course: COMP202
+Program Name: Balanced Parentheses Checker Language: C Author: Siddharth Thapa Course: COMP202
 
 (a) Explanation of Data Structures The program uses a stack implemented as an array to keep track of opening brackets.
 
